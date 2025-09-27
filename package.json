@@ -1,0 +1,27 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "Node js first",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bakabaka102/WebProject.git"
+  },
+  "keywords": [
+    "node",
+    "js"
+  ],
+  "author": "Ha Ngg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bakabaka102/WebProject/issues"
+  },
+  "homepage": "https://github.com/bakabaka102/WebProject#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
